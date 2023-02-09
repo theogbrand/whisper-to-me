@@ -1,7 +1,7 @@
 ## Tools
-- [Audio Trimmer] (https://audiotrimmer.com/)
-- [YouTube MP3 Converter] (https://tomp3.cc/en33)
-- [OpenAI Whisper] (https://github.com/openai/whisper)
+- [Audio Trimmer](https://audiotrimmer.com/)
+- [YouTube MP3 Converter](https://tomp3.cc/en33)
+- [OpenAI Whisper](https://github.com/openai/whisper)
 
 
 ## Install Package
